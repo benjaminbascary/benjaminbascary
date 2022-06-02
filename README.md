@@ -1,12 +1,10 @@
 # :rocket: Hi there! My name is Benjamin Bascary
 
-### I am a techonology enthuasiast. Currently studying full time Front End Software Development at Comahue National University based in Neuquén, Argentina (and of course by myself on my spare time). My favorite tech is ReactJS.
+### I am a techonology enthuasiast. Currently studying Web Development at Comahue National University based in Neuquén, Argentina (and of course by myself on my spare time). My favorite tech is ReactJS!
 
 ## 💻 CURRENT PROJECT: ##
 
-### Im currently working on a Issue Tracker a.k.a Bug Tracker, which I think is an amazing tool with a super useful purpose, even for me while trying to build it :smile: Currently working on the server side, that is why in the issue_tracker repo you won't see any of the back-end. Of course if you wish you can try the front-end part that comes with a fake API where I put the tasks that are needing to be done. You can play with it. It is public! Any ideas or feedback are welcome ❕
-
-### In the other hand im working at a Hackaton Project organized by UNESCO in which the main objective is to preserve the Quechua Language using technology to spread the knowledge, information and visualize the culture of these people. Currently we are a team of three members. Machine Learning, Computational Research, and Web Development (myself) 🌝
+### Im currently working on my React and Node skills! Reading 'Web Development with Node and Express by Ethan Brown'. The best book for beginners. On the ### other side, im doing and extensive React Udemy Course. There Im learing mainly, custom hooks, Redux, unit-testing and docker (you never know when you ### are going to use it 🌝). Im my spare time I see a little of Object Oriented Programming using C# and .NET by recommendation of my brother (he is also  ### programming at the moment).
 
 ### Contact with me! :calling: +54 9 1159495066 or :e-mail: benjaminbascary@gmail.com !
 
